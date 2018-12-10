@@ -27,7 +27,7 @@
     "@vue/eslint-config-standard": "^4.0.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
-    "vue-template-compiler": "^2.5.17"
+    "vue-template-compiler": "^2.5.19"
   },
   "eslintConfig": {
     "root": true,
